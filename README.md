@@ -1,12 +1,12 @@
-<a href="https://github.com/cryowire">
-  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="400" />
-</a>
+<p align="center"><a href="https://github.com/cryowire">
+  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="600" />
+</a></p>
 
-# cryowire/chrome-extension
-
-A Chrome extension that renders `cooldown.yaml` files directly from GitHub as interactive wiring diagrams. Like Swagger UI, but for cryostat wiring configurations.
-
-See **[cryowire.github.io](https://cryowire.github.io/)** for the full project overview.
+<h1 align="center">cryowire/chrome-extension</h1>
+<p align="center">A Chrome extension that renders <code>cooldown.yaml</code> files directly from GitHub as interactive wiring diagrams.</p>
+<p align="center">
+  <a href="https://cryowire.github.io/"><img src="https://img.shields.io/badge/Website-cryowire.github.io-38bdf8?style=for-the-badge" alt="Website" /></a>
+</p>
 
 ## Features
 
